@@ -1,0 +1,7 @@
+{
+  "mirrors": [
+    "https://snomi.net",
+    "https://raw.githubusercontent.com/n1lfy/snomi-clips/main",
+    "https://cdn.jsdelivr.net/gh/n1lfy/snomi-clips@main"
+  ]
+}
